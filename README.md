@@ -27,9 +27,7 @@ This project was built to practice foundational C++ programming concepts, focusi
 
 ---
 
-## 🖥️ How to Run
+## 👨‍💻 Author
 
-1. **Prerequisite:** Windows OS (required for `<windows.h>` visual/audio effects) and a C++ compiler (Visual Studio, GCC/MinGW, Clang).
-2. **Compile:**
-   ```bash
-   g++ -o RockPaperScissors main.cpp
+**Badr Samy**  
+*Undergraduate Student & Aspiring .NET Backend Engineer*
